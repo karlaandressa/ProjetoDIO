@@ -1,0 +1,21 @@
+body{
+    font: 20px Arial, sans-serif
+}
+.navbar { 
+    background-color: hsl(30, 53%, 64%);
+}
+.style-couple{ 
+    background-color: #fefae0;
+    color: red;
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.parceiros{
+    background-color: brown;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+}
